@@ -5,3 +5,4 @@
 .env.test.local
 /data
 /venv
+results.csv
